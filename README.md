@@ -1,2 +1,2 @@
-# git-github-teste
+# git-teste
 git/github-teste
